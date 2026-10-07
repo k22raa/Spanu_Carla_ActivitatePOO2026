@@ -17,6 +17,7 @@ void main()
 {
 	Colectie c;
 	cout<<"hey"<<endl;
+	//citire variabila reala.
 	c.categorie = 'A';
 	c.finit = true;
 	c.nrElem = 245;
