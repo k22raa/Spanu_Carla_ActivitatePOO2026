@@ -16,6 +16,7 @@ void afisare_colectie(Colectie c)
 void main()
 {
 	Colectie c;
+	cout<<"hey"<<endl;
 	c.categorie = 'A';
 	c.finit = true;
 	c.nrElem = 245;
