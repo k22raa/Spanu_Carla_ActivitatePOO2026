@@ -36,5 +36,8 @@
     <ClCompile Include="inPlusSeminar05.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="inPlusCurs06.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
