@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="inPlusCurs06.cpp" />
+    <ClCompile Include="inPlusPtTest.cpp" />
     <ClCompile Include="inPlusSeminar05.cpp" />
     <ClCompile Include="seminar01.cpp" />
     <ClCompile Include="seminar02.cpp" />
@@ -148,6 +149,7 @@
     <ClCompile Include="seminar05.cpp" />
     <ClCompile Include="seminar4inplus.cpp" />
     <ClCompile Include="seminar6.cpp" />
+    <ClCompile Include="seminar8.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

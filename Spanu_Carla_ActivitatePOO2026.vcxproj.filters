@@ -42,5 +42,11 @@
     <ClCompile Include="seminar6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="inPlusPtTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
