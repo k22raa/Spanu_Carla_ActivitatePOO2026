@@ -48,5 +48,8 @@
     <ClCompile Include="seminar8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="seminar9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
